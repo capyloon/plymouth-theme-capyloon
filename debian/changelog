@@ -1,23 +1,5 @@
-mobian-plymouth-theme (1.3) unstable; urgency=medium
+mobian-plymouth-theme (1) UNRELEASED; urgency=medium
 
-  * logo: use new mobian logo
+  * Initial Debian release (Closes: #974429)
 
  -- Arnaud Ferraris <arnaud.ferraris@gmail.com>  Tue, 26 May 2020 16:13:03 +0200
-
-mobian-plymouth-theme (1.2) unstable; urgency=medium
-
-  * mobian.script: improve position of progress bar
-
- -- Arnaud Ferraris <arnaud.ferraris@gmail.com>  Mon, 25 May 2020 01:45:43 +0200
-
-mobian-plymouth-theme (1.1) unstable; urgency=medium
-
-  * mobian.script: lower position of progress bar
-
- -- Arnaud Ferraris <arnaud.ferraris@gmail.com>  Thu, 14 May 2020 02:29:56 +0200
-
-mobian-plymouth-theme (1.0) unstable; urgency=medium
-
-  * Initial commit.
-
- -- Arnaud Ferraris <arnaud.ferraris@gmail.com>  Thu, 07 May 2020 15:40:36 +0200
