@@ -1,3 +1,1 @@
-*.png usr/share/plymouth/themes/mobian
-mobian.plymouth usr/share/plymouth/themes/mobian
-mobian.script usr/share/plymouth/themes/mobian
+mobian usr/share/plymouth/themes

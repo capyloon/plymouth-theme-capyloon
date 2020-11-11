@@ -32,7 +32,7 @@ unscaled_logo = Image("logo.png");
 
 window_max.width = Window.GetX() * 2 + Window.GetWidth();
 window_max.height = Window.GetY() * 2 + Window.GetHeight();
-logo_scale_factor = window_max.width / unscaled_logo.GetWidth();
+logo_scale_factor = (window_max.width / unscaled_logo.GetWidth()) * 0.75;
 
 logo.image = unscaled_logo.Scale(unscaled_logo.GetWidth() * logo_scale_factor,
                                  unscaled_logo.GetHeight() * logo_scale_factor);
