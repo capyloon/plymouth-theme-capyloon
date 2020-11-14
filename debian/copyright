@@ -5,11 +5,6 @@ Source: https://salsa.debian.org/Mobian-team/mobian-plymouth-theme
 
 Files: *
 Copyright: 2020 Purism, SPC
-License: GPL-3.0-or-later
-
-Files: debian/*
-       mobian/*
-Copyright: 2020 Purism, SPC
            2020 Arnaud Ferraris <arnaud.ferraris@gmail.com>
 License: GPL-3.0-or-later
 
