@@ -270,6 +270,7 @@ fun boot_callback (duration, progress) {
     }
     else if (Plymouth.GetMode() == "shutdown") {
         hide_progress();
+        show_text("Shutting down");
         show_spinner();
     }
     else if (Plymouth.GetMode() == "updates") {
