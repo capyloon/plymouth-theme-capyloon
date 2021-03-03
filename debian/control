@@ -14,7 +14,6 @@ Package: mobian-plymouth-theme
 Architecture: all
 Depends:
  ${misc:Depends},
- ${shlibs:Depends},
  plymouth,
  plymouth-label,
 Provides:
