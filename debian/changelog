@@ -1,4 +1,4 @@
-mobian-plymouth-theme (1) UNRELEASED; urgency=medium
+mobian-plymouth-theme (1.0) UNRELEASED; urgency=medium
 
   * Initial Debian release (Closes: #974429)
 
