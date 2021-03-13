@@ -5,6 +5,12 @@ Copyright: 2020 Purism, SPC
            2020 Arnaud Ferraris <arnaud.ferraris@gmail.com>
 License: GPL-3.0-or-later
 
+Files: debian/*
+Copyright: 2020 Arnaud Ferraris <arnaud.ferraris@gmail.com>
+           2020 Federico Ceratto <federico@debian.org>
+           2021 Nicolas Boulenguez <nicolas@debian.org>
+License: GPL-3.0-or-later
+
 Files: mobian/logo.png
 Copyright: 1999 Software in the Public Interest, Inc.
            2020 Oscar Domingo
