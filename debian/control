@@ -1,16 +1,16 @@
-Source: mobian-plymouth-theme
+Source: plymouth-theme-mobian
 Section: misc
 Priority: optional
-Maintainer: Arnaud Ferraris <arnaud.ferraris@gmail.com>
+Maintainer: Arnaud Ferraris <aferraris@debian.org>
 Uploaders: Federico Ceratto <federico@debian.org>
 Build-Depends: debhelper-compat (= 13)
-Standards-Version: 4.5.1
-Homepage: https://salsa.debian.org/Mobian-team/mobian-plymouth-theme
-Vcs-Git: https://salsa.debian.org/Mobian-team/mobian-plymouth-theme.git
-Vcs-Browser: https://salsa.debian.org/Mobian-team/mobian-plymouth-theme
+Standards-Version: 4.6.1
+Homepage: https://salsa.debian.org/Mobian-team/plymouth-theme-mobian
+Vcs-Git: https://salsa.debian.org/Mobian-team/plymouth-theme-mobian.git
+Vcs-Browser: https://salsa.debian.org/Mobian-team/plymouth-theme-mobian
 Rules-Requires-Root: no
 
-Package: mobian-plymouth-theme
+Package: plymouth-theme-mobian
 Architecture: all
 Depends:
  ${misc:Depends},

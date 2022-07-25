@@ -1,5 +1,5 @@
-mobian-plymouth-theme (1.0) UNRELEASED; urgency=medium
+plymouth-theme-mobian (1.0) UNRELEASED; urgency=medium
 
   * Initial Debian release (Closes: #974429)
 
- -- Arnaud Ferraris <arnaud.ferraris@gmail.com>  Tue, 26 May 2020 16:13:03 +0200
+ -- Arnaud Ferraris <aferraris@debian.org>  Tue, 26 May 2020 16:13:03 +0200
