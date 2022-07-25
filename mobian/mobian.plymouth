@@ -1,6 +1,6 @@
 [Plymouth Theme]
 Name=Mobian
-Description=A Theme for mobile devices
+Description=A Debian-inspired theme for mobile devices
 ModuleName=script
 
 [script]
