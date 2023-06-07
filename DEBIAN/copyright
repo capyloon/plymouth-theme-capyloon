@@ -11,10 +11,8 @@ Copyright: 2020-2022 Arnaud Ferraris <aferraris@debian.org>
            2021 Nicolas Boulenguez <nicolas@debian.org>
 License: GPL-3.0-or-later
 
-Files: mobian/logo.png
-Copyright: 1999 Software in the Public Interest, Inc.
-           2020 Oscar Domingo
-           2020 Arnaud Ferraris <aferraris@debian.org>
+Files: capyloon/logo.png
+Copyright: 2023 Fabrice Desré <fabrice@desre.org>
 License: LGPL-3.0-or-later
 
 License: GPL-3.0-or-later

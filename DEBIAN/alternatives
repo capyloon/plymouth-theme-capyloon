@@ -1,4 +1,4 @@
 Name: default.plymouth
 Link: /usr/share/plymouth/themes/default.plymouth
-Alternative: /usr/share/plymouth/themes/mobian/mobian.plymouth
+Alternative: /usr/share/plymouth/themes/capyloon/capyloon.plymouth
 Priority: 90

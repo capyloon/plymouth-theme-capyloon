@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=Mobian
-Description=A Debian-inspired theme for mobile devices
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/mobian
-ScriptFile=/usr/share/plymouth/themes/mobian/mobian.script

@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Capyloon
+Description=A Capyloon theme for linux devices, based on the Mobian one.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/capyloon
+ScriptFile=/usr/share/plymouth/themes/capyloon/capyloon.script

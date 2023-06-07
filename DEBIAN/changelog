@@ -1,3 +1,7 @@
+plymouth-theme-capyloon (1.3) unstable; urgency=medium
+
+  * Initial Capyloon fork.
+
 plymouth-theme-mobian (1.1) unstable; urgency=medium
 
   * Source-only upload to allow transition to testing

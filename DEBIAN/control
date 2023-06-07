@@ -1,0 +1,25 @@
+Source: plymouth-theme-capyloon
+Version: 1.3
+Section: misc
+Priority: optional
+Maintainer: Fabrice Desré <fabrice@desre.org>
+Uploaders: Fabrice Desré <fabrice@desre.org>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.1
+Homepage: https://github.com/capyloon/plymouth-theme-capyloon
+Vcs-Git: https://github.com/capyloon/plymouth-theme-capyloon.git
+Vcs-Browser: https://github.com/capyloon/plymouth-theme-capyloon
+Rules-Requires-Root: no
+Package: plymouth-theme-capyloon
+Architecture: all
+Depends: plymouth, plymouth-label
+Provides: plymouth-theme
+Description: boot animation, logger and I/O multiplexer - Capyloon theme
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package provides the default Capyloon theme.

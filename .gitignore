@@ -1,5 +1,6 @@
 debian/*.substvars
 debian/.debhelper
-debian/mobian-plymouth-theme
+debian/capyloon-plymouth-theme
 debian/files
 debian/debhelper-build-stamp
+*.deb
